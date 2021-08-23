@@ -13,7 +13,7 @@ app.get('/domain', function(req, res){
     values.forEach(element => {
         domains.push(element.domain);
     });
-    res.json(domains);    
+    res.send(domains);    
 });
 
 app.get('/:id', function (req, res) {
