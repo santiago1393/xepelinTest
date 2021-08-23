@@ -1,0 +1,11 @@
+{
+  "name": "xepelinTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/santiago1393/xepelinTest.git",
+  "author": "santiago <santi1393@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
